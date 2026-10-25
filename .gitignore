@@ -1,0 +1,16 @@
+# Binarios y objetos
+*.o
+*.obj
+*.exe
+*.out
+game-of-life
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
