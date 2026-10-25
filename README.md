@@ -1,4 +1,4 @@
-# Conway's Game of Life (C)
+# Game of Life
 
 Implementación en C del autómata celular **Juego de la Vida** de John Conway, visualizado en la terminal con secuencias de escape ANSI.
 
@@ -48,7 +48,3 @@ Salir con `Ctrl + C`.
 ├── Makefile
 └── README.md
 ```
-
-## 📄 Licencia
-
-MIT — ver [LICENSE](LICENSE).
